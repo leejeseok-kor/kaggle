@@ -1,4 +1,4 @@
 # kaggle
 
 ## 1. Titanic
-    #### 1. EDA
+    1. EDA
